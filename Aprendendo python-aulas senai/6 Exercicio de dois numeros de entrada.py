@@ -4,7 +4,7 @@ os.system("cls || clear")
 numero1=float(input("Digite o primeiro numero:"))
 numero2=float(input("Digite o sgundo numero:"))
 #verificacao
-soma=numero1+numero1
+soma=numero1+numero2
 subtracao=numero1-numero2
 multplicacao=numero1*numero2
 divisao=numero1/numero2
@@ -18,5 +18,5 @@ if numero1>numero2:
    print("O numero 1 é o maior valor!")
 if numero2>numero1:
    print("O numero 2 é o maior valor!")
-else:
+if numero1==numero2:
    print("Os numeros são iguais!")
