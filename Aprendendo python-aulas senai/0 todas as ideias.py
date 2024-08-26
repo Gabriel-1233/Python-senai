@@ -11,3 +11,7 @@
 #upper é igual a tornar todas as letras maiusculas
 #lower é igaul a tornar todas as letras minusculas
 #for i in range é repetição
+#para commit=salvar
+#git add.
+#git commit-m"Salvar ou qualquer outra coisa".
+#git push
