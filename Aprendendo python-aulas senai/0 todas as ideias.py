@@ -5,6 +5,7 @@
 #real=float
 # if é igual a verdadeiro,falso ou se
 # else é igual a senao
+#elif é igual a else if=senao se
 # and igual a e
 #or é igaul a ou
 #not é igual a negação
