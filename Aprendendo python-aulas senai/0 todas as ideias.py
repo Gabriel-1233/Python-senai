@@ -1,4 +1,5 @@
 #import os os.system("cls || clear")
+#import time ai vem a existencia do tempo
 #print=escreva
 #cadeia=str
 #inteiro=int
