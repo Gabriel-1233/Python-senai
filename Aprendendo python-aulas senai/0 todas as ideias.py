@@ -17,6 +17,7 @@
 #.strip() é igual a apagar o espaço
 #for i in range é repetição
 #while é um laço de repetição que repete enquanto for verdade
+#def função sem retorno simplifica o codigo.
 #para commit=salvar
 #git add.
 #git commit-m"Salvar ou qualquer outra coisa".
