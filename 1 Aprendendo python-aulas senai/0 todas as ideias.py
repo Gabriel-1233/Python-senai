@@ -18,6 +18,16 @@
 #for i in range é repetição
 #while é um laço de repetição que repete enquanto for verdade
 #def função sem retorno simplifica o codigo.
+#len retorna a quantidade de elementos no vetor, basicamente ele vai ler os valores contidos dentro do vetor
+#for each é igual// for variavel in variavel,melhor forma de se ler um vetor.
+#append adiciana valor aos vetores,melhor explicação na pasta de vetores
+#sum é para somar todos os valores dentro do vetor
+#min utilizado para achar o menor valor
+#max utilizado para achar o maior valor
+#reversed é utilizado para exibir de forma reversa
+
+
+#-----------------------------------------------------------
 #para commit=salvar
 #git add.
 #git commit-m"Salvar ou qualquer outra coisa".
