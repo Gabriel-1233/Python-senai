@@ -1,5 +1,7 @@
 #import os os.system("cls || clear")
 #import time ai vem a existencia do tempo
+#----------------------------------------------------------
+
 #print=escreva
 #cadeia=str
 #inteiro=int
@@ -29,6 +31,9 @@
 
 #-----------------------------------------------------------
 #para commit=salvar
+#git status indentifica arquivos para salvar
+#git pull atualiza seu repositorio local em relação ao github
 #git add.
 #git commit-m"Salvar ou qualquer outra coisa".
-#git push
+#git push envia seu codigo para o github
+

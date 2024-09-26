@@ -1,0 +1,4 @@
+welson, 15
+marios, 30
+welson, 12
+mario, 20
